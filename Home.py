@@ -17,7 +17,7 @@ st.markdown(
     Growth Dashobar foi construido para acompanhar as médias de crescimento dos Entregadore e Restaurantes.
     ### Como utilizar esse Growth Dashboard?
     - Visão Empresa
-        - Visão Gerenciasl: Métricas gerais de comportamento
+        - Visão Gerencial: Métricas gerais de comportamento
         - Visão tática: Indicadores semanais de crescimento
         - Visão geográfica: Insight de geolocalização.
     - Visão Entregador:
